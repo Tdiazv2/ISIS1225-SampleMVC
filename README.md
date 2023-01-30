@@ -29,6 +29,9 @@ This repository is part of the data structure and algorithms (#EDA) teaching fra
 
 <!-- GROUP MEMBERS -->
 ## Members
+Tomas Diaz 202220658  t.diazv@uniandes.edu.co
+Samuel Peña 202028273 ss.pena@uniandes.edu.co
+Alejandro Narvaez 202123110 a.narvaeza@uniandes.edu.co
 
 The students edit this section to add their names, Uniandes emails, and specify which project functionality of the project they will implement.
 
